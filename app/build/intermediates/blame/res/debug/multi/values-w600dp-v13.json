@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 51,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 5,
+                        "startOffset": 492,
+                        "endColumn": 52,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 48,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 5,
+                        "startOffset": 546,
+                        "endColumn": 49,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 57,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 57,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 49,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 49,
+                        "endOffset": 426
+                    }
+                }
+            }
+        ]
+    }
+]

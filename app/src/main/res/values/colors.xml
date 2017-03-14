@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="dark_color">#87888a</color>
+    
+    <color name="menu_frame_light_gray">#b1b3b5</color>
+    <color name="menu_frame_dark_gray">#b9bbbd</color>
+    <color name="menu_frame_selected_gray">#87888a</color>
+    <color name="text_color">#ebebeb</color>
+</resources>

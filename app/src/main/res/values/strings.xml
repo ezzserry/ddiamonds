@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ddiamonds</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="Please_enter_your_information">Please enter your information</string>
+    <string name="enter_your_name">Your Name</string>
+    <string name="enter_user_name">User Name</string>
+    <string name="enter_your_email">Email Address</string>
+    <string name="enter_your_pass">Password</string>
+    <string name="enter_confirm_pass">Confirm Password</string>
+    <string name="i_already_have_an_account">I already have an account.</string>
+    <string name="or_signin_with_facebook">OR SIGN IN WITH FACEBOOK</string> 
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="please_enter_user_name">Please enter your user name</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_your_pass">Please enter your password</string>
+    <string name="please_enter_confirm_pass">Please enter your password confirmation</string>    
+    <string name="please_enter_valid_email">Please enter a valid email</string>
+    <string name="pass_and_confirm_not_matched">Password and Confirm Password not matched</string>
+    <string name="alert_title">D.Diamonds</string>
+    <string name="check_connection">Please check your internet connection and try again.</string>
+    <string name="user_name_already_exists">User name already exists, please type another one.</string>
+    <string name="please_enter_all_data">Please enter your all data.</string>
+    
+    <string name="user_name_not_correct">User name is not correct</string>
+    
+    <string name="your_new_password_saved">Your new password successfully saved</string>
+    
+    <string name="forgot_pass">FORGOT YOUR PASSWORD?</string>
+    <string name="create_anaccount">CREATE AN ACCOUNT</string>
+    
+    <string name="wrong_pass_or_user_name">User name or password is not correct.</string>
+    
+    <string name="new_pass_note">Please enter your user name and your new password and its confirmation</string>
+    
+    <string name="home_title">HOME</string>
+    <string name="brand_title">BRANDS</string>
+    <string name="cat_title">CATEGORIES</string>
+    <string name="store_location_title">STORE LOCATION</string>
+    <string name="fav_title">FAVORITE</string>
+    
+    <string name="add_to_fave">+ Save</string>
+    <string name="remove_from_fav">Remove</string>
+    <string name="fave_success_add">Your product added to favourites successfully.</string>
+    <string name="fave_fail_add">Something went wrong, please try again later.</string>  
+    <string name="fav_delete">Delete</string>
+    <string name="are_u_sure_to_delete_from_fav">Are you sure you want to delete this product from favourites?</string>
+    
+    <string name="contactus">CONTACT US</string>
+    
+    <string name="contact_FullName">Full Name</string>
+    <string name="contact_EmailAddress">Email Address</string>
+    <string name="contact_Phone">Phone</string>
+    <string name="contact_Subject">Subject</string>
+    <string name="contact_message">Message</string>
+    
+    <string name="please_enter_name">Please enter your full name</string>
+    <string name="please_enter_email">Please enter your email</string>
+    <string name="please_enter_phone">Please enter your phone number</string>
+    <string name="please_enter_subject">Please enter a subject</string>
+    <string name="please_enter_message">Please enter your message</string>
+    
+    <string name="message_sent_successfully">Your message sent successfully</string>
+    
+    <string name="something_wrong">Something went wrong, please try again later</string>
+    
+    <string name="try_it">Try it</string>
+    <string name="crash_toast_txt">The DDiamonds app has encountered a problem and has quit. An error report will be filed with the developer to ensure this will not happen in the future.</string>
+        
+        
+   
+    
+    
+
+</resources>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-605042b95fa8190c8b249508fb62def719b6994b.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-801c9172bb461fba8c6ae03a1fcf0fdcbddcf84f.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-7d07f276115be68016826720580d65d8a90320d6.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-e7d34fc5e3b9be6c63e9edae13edb6b490091e61.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-ce320c781f7694af26a920954695e54f679d6ca6.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-ffeb8a6e1a955397cada25c27413bbede0a217dc.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-b85d218539d55ef35abad783eb46e740b29503eb.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-0d65aa43f701f60e4583ea595182c07c03c11e63.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-fbfcd04ccc77046641ecce3dc5cc150c5dd50ed9.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\libs\android-async-http-1.4.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f323e867632d06bbf20793512a0221604256b110">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.1-b49ac8209794607ab94c3b244df3f0ef0bb17db9.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-776133703fac30d7c1e0d7ebf9681d6079ac169c.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-333a4179ac4024590dcd09d337112c3ad56de221.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-f4dcc2cf974554734b3c7ecd026683e99655766d.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-c915b898409119618fd6c87d16d32ef2284df1cf.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-a32935985e6fda4f6a510ac4e2ee6b311101f1ec.jar" />
+    </item>
+    <item
+        jar="D:\Aya\programs\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5be3011697ae070102ff05f3daee4004d2eca0dc.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-bfc2f90da85e0aa54f2c03699319d32f30f098ec.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-bde9e47dd16ef774fcec135faeff5f0aaa800659.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-91eb6e1df19779a898abd0ba43e0a55f636ddb83.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-0464913dd181d2496a2a28d7e02d5fdbdb1080e3.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-cf1388d97e58b60f366ab6a12e2361d6198f8dc7.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-2e984b5d7d045e33f814394f837ee19c7b256674.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-bca45a3424a6b38067d31cfa6a09c570e277ad79.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-8046ce9330b4e2e78302d87dfaebf00a0b6e07da.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-ba467fcbf162c4af12d696bb4bdcbbf789001d6d.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-75bb5e705089e015e0f3c04f8349341ef7566ae2.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-ffc718cd90001e82b0595eb114997f08ad0d8bac.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b08325687a40490b266f7b4ed19543bb7657f522.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-0022909a026ad0666cfaa9ad9c14e67d71745fb1.jar" />
+    </item>
+    <item
+        jar="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\Aya\aw\D.D\ddiamonds\ddiamonds\app\build\intermediates\pre-dexed\debug\classes-978e0d50ca8baf5357cd5813abfac81b2dd40a3f.jar" />
+    </item>
+
+</items>

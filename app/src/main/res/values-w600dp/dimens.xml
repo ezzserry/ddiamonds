@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+         Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively).
+    -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    
+    
+    <dimen name="view_top_text_size">20sp</dimen>
+    <dimen name="store_location_map_height">550dp</dimen>
+     <dimen name="brand_name_text_size">25sp</dimen>
+     <dimen name="product_list_name">16sp</dimen>
+
+</resources>
