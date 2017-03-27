@@ -22,6 +22,7 @@ import android.content.pm.ActivityInfo;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.AdapterView;
@@ -29,7 +30,7 @@ import android.widget.ImageView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 
-public class ProductList extends Activity{
+public class ProductList extends AppCompatActivity{
 	
 	GridView gridView ;
 	ImageView img_home, img_pre;	
@@ -113,7 +114,7 @@ public class ProductList extends Activity{
     			
     			params.put("brand_id", brand_id);
     			params.put("cat_id", cat_id);
-    			
+
     			client.get(Constants.ItemsURL, params, new JsonHttpResponseHandler()
     	        {
     	        	@Override
@@ -187,6 +188,7 @@ public class ProductList extends Activity{
     	        		progressDialog.dismiss();
     	        	};
     	        });
+
 	    	}
     	}
 	}

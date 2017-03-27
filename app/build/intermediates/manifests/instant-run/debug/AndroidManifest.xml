@@ -37,7 +37,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.ddiamonds.Splash"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -47,37 +47,37 @@
         <activity
             android:name="com.ddiamonds.SignUp"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.Login"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.ForgotPassword"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.Home"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.Brands"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.Categories"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.About"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.StoreLocation"
@@ -87,27 +87,27 @@
         <activity
             android:name="com.ddiamonds.ProductList"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.ProductDetails"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.FavList"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.ContactUS"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="com.ddiamonds.TryIt"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
 
         <!-- Google MAP API key -->

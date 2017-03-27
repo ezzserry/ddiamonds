@@ -35,19 +35,20 @@ public class Splash extends Activity{
 	                //Finish the splash activity so it can't be returned to.
 	                Splash.this.finish();
 	                // Create an Intent that will start the main activity.
-	                
+					Intent mainIntent = new Intent(Splash.this, Home.class);
+					Splash.this.startActivity(mainIntent);
 	                int UserID = pref.getInt(Constants.App_Pref_UserID, 0);
 	                
-	                if(UserID > 0)
-	                {
-	                	Intent mainIntent = new Intent(Splash.this, Home.class);
-		                Splash.this.startActivity(mainIntent);
-	                }
-	                else
-	                {
-	                	Intent mainIntent = new Intent(Splash.this, Login.class);
-		                Splash.this.startActivity(mainIntent);
-	                }
+//	                if(UserID > 0)
+//	                {
+//	                	Intent mainIntent = new Intent(Splash.this, Home.class);
+//		                Splash.this.startActivity(mainIntent);
+//	                }
+//	                else
+//	                {
+//	                	Intent mainIntent = new Intent(Splash.this, Login.class);
+//		                Splash.this.startActivity(mainIntent);
+//	                }
  
 	            }
 	        }, Constants.SPLASH_DISPLAY_LENGTH);

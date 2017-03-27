@@ -65,7 +65,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
-                android:orientation="horizontal" >
+                android:orientation="horizontal"
+                android:layout_gravity="center">
 
                 <LinearLayout
                     android:id="@+id/linear_location"
@@ -134,7 +135,8 @@
                 <LinearLayout
                     android:id="@+id/linear_fav"
                     android:layout_width="wrap_content"
-                    android:layout_height="fill_parent" >
+                    android:layout_height="fill_parent"
+                    android:visibility="gone">
 
                     <ImageView
                         android:id="@+id/img_fav"

@@ -11,7 +11,7 @@ public class Constants {
 	
 //	public static final String BaseURL = "http://176.58.105.80/APIs/";
 //	public static final String BaseURL = "http://176.58.105.80/jan2014/APIs/";
-	public static final String BaseURL = "http://socialmediaapps.co/awstreams/jan2014/APIs/";
+	public static final String BaseURL = "http://ddiamonds.aws.tl/APIs/";
 	
 	public static final String RegistrationURL = BaseURL + "register.php";
 	public static final String LoginURL = BaseURL + "login.php";

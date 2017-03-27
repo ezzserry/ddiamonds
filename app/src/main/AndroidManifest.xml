@@ -28,7 +28,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name=".Splash"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -38,67 +38,67 @@
         <activity
             android:name="SignUp"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="Login"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="ForgotPassword"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="Home"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="Brands"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="Categories"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="About"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="StoreLocation"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="ProductList"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="ProductDetails"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="FavList"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="ContactUS"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="TryIt"
             android:configChanges="orientation"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         
         

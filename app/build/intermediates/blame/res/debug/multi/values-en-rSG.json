@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "outputFile": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "D:\\Work\\AWStreams\\android\\D.DiamondsApp\\D.D\\ddiamonds\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.6.1\\res\\values-en-rSG\\values.xml",
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.6.1\\res\\values-en-rSG\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
