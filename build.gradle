@@ -13,3 +13,9 @@ allprojects {
         jcenter()
     }
 }
+ext {
+    buildToolsVersion = '23.0.3'
+
+    // App dependencies
+    supportLibraryVersion = '23.4.0'
+}

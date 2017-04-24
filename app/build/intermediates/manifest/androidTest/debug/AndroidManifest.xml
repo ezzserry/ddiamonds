@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ddiamonds.test" >
+    package="awsteams.ddiamonds.test" >
 
     <uses-sdk
-        android:minSdkVersion="11"
+        android:minSdkVersion="17"
         android:targetSdkVersion="23" />
 
     <instrumentation
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.ddiamonds"
-        android:targetPackage="com.ddiamonds" />
+        android:label="Tests for awsteams.ddiamonds"
+        android:targetPackage="awsteams.ddiamonds" />
 
     <application>
         <uses-library android:name="android.test.runner" />

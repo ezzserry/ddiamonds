@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="cb7ad418443a69bb4cd8965c577272dc4eddc761">
+        sha1="a655291ee834b2d040d8f0f5b9a1d9f3d81ac5a0">
         <dex dex="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_921f48a83c93bed82915ec07412ca9b7a21bc361\classes.dex" />
     </item>
     <item
@@ -117,6 +117,15 @@
         revision="23.0.3"
         sha1="babb25794a7599069d34705038744c5760a9a88c">
         <dex dex="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_fb98e3358aee4360d763845c034e759e232d4014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_9a3241dd4253f080beaa74140a74e20600a00c05\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -439,7 +448,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="094697e4436c141e6bb67e0cb731bbec61042dc2">
+        sha1="3fde8a2936fe583df52fa8a9fffd327f53193443">
         <dex dex="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1025b97b13016124475e860f01e44acc1e586e1c\classes.dex" />
     </item>
     <item
@@ -504,6 +513,15 @@
         revision="23.0.3"
         sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
         <dex dex="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_6a1e5ce48c9b2ff1414eb1ba7f532055f5d0ea04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="G:\Ahmed ezz\Android\AWStreams\android\ddiamonds\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_f7fb083d92622f0d54a0e3f18f25a2f0c4e78213\classes.dex" />
     </item>
     <item
         is-multidex="true"

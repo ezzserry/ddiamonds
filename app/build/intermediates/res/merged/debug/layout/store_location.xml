@@ -45,7 +45,7 @@
             android:id="@+id/map"
             android:layout_width="match_parent"
             android:layout_height="@dimen/store_location_map_height"
-            class="com.google.android.gms.maps.MapFragment" />
+            class="com.google.android.gms.maps.SupportMapFragment"/>
 
         <LinearLayout
             android:id="@+id/lin_address"

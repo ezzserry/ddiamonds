@@ -49,7 +49,7 @@ public class About extends FragmentActivity {
 	 * ATTENTION: This was auto-generated to implement the App Indexing API.
 	 * See https://g.co/AppIndexing/AndroidStudio for more information.
 	 */
-	private GoogleApiClient client2;
+//	private GoogleApiClient client2;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -153,7 +153,7 @@ public class About extends FragmentActivity {
 		}
 		// ATTENTION: This was auto-generated to implement the App Indexing API.
 		// See https://g.co/AppIndexing/AndroidStudio for more information.
-		client2 = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+//		client2 = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
 	}
 
 	public void showAlert(String Message) {
@@ -170,7 +170,7 @@ public class About extends FragmentActivity {
 		alert.show();
 	}
 
-	@Override
+	/*@Override
 	public void onStart() {
 		super.onStart();
 
@@ -188,9 +188,9 @@ public class About extends FragmentActivity {
 				Uri.parse("android-app://com.ddiamonds/http/host/path")
 		);
 		AppIndex.AppIndexApi.start(client2, viewAction);
-	}
+	}*/
 
-	@Override
+	/*@Override
 	public void onStop() {
 		super.onStop();
 
@@ -208,5 +208,5 @@ public class About extends FragmentActivity {
 		);
 		AppIndex.AppIndexApi.end(client2, viewAction);
 		client2.disconnect();
-	}
+	}*/
 }

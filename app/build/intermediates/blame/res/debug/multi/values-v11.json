@@ -33,7 +33,15 @@
                     "endOffset": 609
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
                 }
             },
             {
@@ -46,7 +54,15 @@
                     "endOffset": 1034
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
                 }
             },
             {
@@ -59,7 +75,15 @@
                     "endOffset": 1462
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
                 }
             },
             {
@@ -72,7 +96,15 @@
                     "endOffset": 1888
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
                 }
             },
             {
@@ -85,7 +117,15 @@
                     "endOffset": 2315
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
                 }
             },
             {
@@ -98,7 +138,15 @@
                     "endOffset": 2740
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
                 }
             },
             {
@@ -110,7 +158,14 @@
                     "endOffset": 2829
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
                 }
             },
             {
@@ -122,7 +177,14 @@
                     "endOffset": 2930
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
                 }
             },
             {
@@ -134,7 +196,14 @@
                     "endOffset": 3033
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 102,
+                        "endOffset": 2893
+                    }
                 }
             },
             {
@@ -147,7 +216,15 @@
                     "endOffset": 3441
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2898,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 3301
+                    }
                 }
             },
             {
@@ -160,7 +237,15 @@
                     "endOffset": 3861
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 3721
+                    }
                 }
             },
             {
@@ -173,7 +258,15 @@
                     "endOffset": 4283
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3726,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4143
+                    }
                 }
             },
             {
@@ -186,7 +279,15 @@
                     "endOffset": 4390
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4148,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4250
+                    }
                 }
             },
             {
@@ -199,7 +300,15 @@
                     "endOffset": 4519
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4379
+                    }
                 }
             },
             {
@@ -211,7 +320,14 @@
                     "endOffset": 4590
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4384,
+                        "endColumn": 70,
+                        "endOffset": 4450
+                    }
                 }
             },
             {
@@ -223,7 +339,14 @@
                     "endOffset": 4673
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4455,
+                        "endColumn": 82,
+                        "endOffset": 4533
+                    }
                 }
             },
             {
@@ -233,47 +356,77 @@
                     "startOffset": 4678,
                     "endLine": 113,
                     "endColumn": 12,
-                    "endOffset": 8226
+                    "endOffset": 8288
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 8148
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 8231,
+                    "startOffset": 8293,
                     "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 11919
+                    "endOffset": 12043
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8153,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 11903
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 11924,
+                    "startOffset": 12048,
                     "endColumn": 90,
-                    "endOffset": 12010
+                    "endOffset": 12134
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 11908,
+                        "endColumn": 90,
+                        "endOffset": 11994
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 12015,
+                    "startOffset": 12139,
                     "endColumn": 117,
-                    "endOffset": 12128
+                    "endOffset": 12252
                 },
                 "from": {
-                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.6.1\\res\\values-v11\\values.xml"
+                    "file": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.6.1\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 117,
+                        "endOffset": 345
+                    }
                 }
             }
         ]

@@ -24,6 +24,11 @@
     <string name="check_connection">Please check your internet connection and try again.</string>
     <string name="user_name_already_exists">User name already exists, please type another one.</string>
     <string name="please_enter_all_data">Please enter your all data.</string>
+    <string name="fb_page">D.Diamonds.Jewellery/</string>
+    <string name="instagram_page">ddiamondsjewellery</string>
+    <string name="email">info@d-diamonds.net</string>
+    <string name="website">www.d-diamonds.net</string>
+    <string name="phone_number">0225215238</string>
     
     <string name="user_name_not_correct">User name is not correct</string>
     

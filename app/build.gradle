@@ -6,10 +6,12 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.ddiamonds"
-        minSdkVersion 11
+        applicationId "awsteams.ddiamonds"
+        minSdkVersion 17
         targetSdkVersion 23
         multiDexEnabled true
+        versionCode 3
+        versionName "1.2"
     }
 
     buildTypes {
@@ -18,14 +20,22 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:23.0.+'
-    compile 'com.android.support:appcompat-v7:23.0.+'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile "com.android.support:design:$rootProject.supportLibraryVersion"
+    compile "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
     compile 'com.google.android.gms:play-services:+'
     //    compile files('libs/acra-4.5.0.jar')
     compile files('libs/android-async-http-1.4.1.jar')
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.github.bumptech.glide:glide:3.7.0'
+
 }
