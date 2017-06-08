@@ -60,6 +60,10 @@
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\drawable-hdpi\\address_icon.png"
     },
     {
+        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_instagram.png",
+        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\drawable-hdpi\\ic_instagram.png"
+    },
+    {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_icon.png",
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\drawable-hdpi\\home_icon.png"
     },
@@ -174,6 +178,10 @@
     {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_text.png",
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\drawable-hdpi\\help_text.png"
+    },
+    {
+        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_instagram.png",
+        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\drawable-hdpi\\icon_instagram.png"
     },
     {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_facebook.png",

@@ -1,6 +1,6 @@
 package com.ddiamonds;
 
-import android.app.Activity;
+import android.Manifest;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
@@ -13,7 +13,11 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.TextInputEditText;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
@@ -29,7 +33,7 @@ import org.json.JSONException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ContactUS extends Activity implements OnClickListener {
+public class ContactUS extends AppCompatActivity implements OnClickListener {
 
     ImageView btn_send;
     TextInputEditText ed_name, ed_email, ed_phone, ed_subject, ed_message;
@@ -37,8 +41,10 @@ public class ContactUS extends Activity implements OnClickListener {
     ImageView img_home;
     AsyncHttpClient client;
     private ProgressDialog progressDialog;
-    public static String FACEBOOK_URL = "https://www.facebook.com/D.Diamonds.Jewellery";
+    public static String FACEBOOK_URL = "https://www.facebook.com/pg/D.Diamonds.Jewellery/";
     public static String FACEBOOK_PAGE_ID = "D.Diamonds.Jewellery/";
+
+    static final Integer CALL = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -237,8 +243,7 @@ public class ContactUS extends Activity implements OnClickListener {
                 startActivity(intent);
                 break;
             case R.id.tv_phone_number:
-                Intent intentPhoneNumber = new Intent(Intent.ACTION_CALL, Uri.parse("tel:" + getResources().getString(R.string.phone_number)));
-                startActivity(intentPhoneNumber);
+                askForPermission(Manifest.permission.CALL_PHONE, CALL);
                 break;
             case R.id.tv_instagram:
                 uri = Uri.parse("http://instagram.com/" + getResources().getString(R.string.instagram_page));
@@ -261,9 +266,9 @@ public class ContactUS extends Activity implements OnClickListener {
         try {
             int versionCode = packageManager.getPackageInfo("com.facebook.katana", 0).versionCode;
             if (versionCode >= 3002850) { //newer versions of fb app
-                return "fb://facewebmodal/f?href=" + FACEBOOK_URL;
+                return FACEBOOK_URL;
             } else { //older versions of fb app
-                return "fb://page/" + FACEBOOK_PAGE_ID;
+                return "fb://" + FACEBOOK_PAGE_ID;
             }
         } catch (PackageManager.NameNotFoundException e) {
             return FACEBOOK_URL; //normal web url
@@ -290,4 +295,39 @@ public class ContactUS extends Activity implements OnClickListener {
         }
     }
 
+    private void askForPermission(String permission, Integer requestCode) {
+        if (ContextCompat.checkSelfPermission(ContactUS.this, permission) != PackageManager.PERMISSION_GRANTED) {
+
+            // Should we show an explanation?
+            if (ActivityCompat.shouldShowRequestPermissionRationale(ContactUS.this, permission)) {
+
+                //This is called if user has denied the permission before
+                //In this case I am just asking the permission again
+                ActivityCompat.requestPermissions(ContactUS.this, new String[]{permission}, requestCode);
+
+            } else {
+
+                ActivityCompat.requestPermissions(ContactUS.this, new String[]{permission}, requestCode);
+            }
+        } else {
+            Intent callIntent = new Intent(Intent.ACTION_CALL);
+            callIntent.setData(Uri.parse("tel:" + getResources().getString(R.string.phone_number)));
+            startActivity(callIntent);
+
+        }
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (ActivityCompat.checkSelfPermission(this, permissions[0]) == PackageManager.PERMISSION_GRANTED) {
+            switch (requestCode) {
+                case 1:
+                    Intent callIntent = new Intent(Intent.ACTION_CALL);
+                    callIntent.setData(Uri.parse("tel:" + getResources().getString(R.string.phone_number)));
+                    startActivity(callIntent);
+                    break;
+            }
+        }
+    }
 }

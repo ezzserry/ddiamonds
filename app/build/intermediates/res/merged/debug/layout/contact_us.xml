@@ -67,7 +67,8 @@
                             android:hint="@string/contact_FullName"
                             android:paddingLeft="5dp"
                             android:paddingRight="5dp"
-                            android:textColor="@color/dark_color" />
+                            android:textColor="@color/dark_color"
+                            android:inputType="textPersonName"/>
                     </android.support.design.widget.TextInputLayout>
 
                 </LinearLayout>
@@ -141,7 +142,8 @@
                             android:hint="@string/contact_Subject"
                             android:paddingLeft="5dp"
                             android:paddingRight="5dp"
-                            android:textColor="@color/dark_color" />
+                            android:textColor="@color/dark_color"
+                            android:inputType="textPersonName"/>
                     </android.support.design.widget.TextInputLayout>
                 </LinearLayout>
 
@@ -169,7 +171,8 @@
                             android:minLines="1"
                             android:paddingLeft="5dp"
                             android:paddingRight="5dp"
-                            android:textColor="@color/dark_color" />
+                            android:textColor="@color/dark_color"
+                            />
                     </android.support.design.widget.TextInputLayout>
                 </LinearLayout>
 
@@ -196,7 +199,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:layout_margin="5dp"
-                        android:drawableStart="@drawable/ic_facebook"
+                        android:drawableStart="@drawable/ic_fb"
                         android:gravity="center"
                         android:text="@string/fb_page"
                         android:textColor="@color/dark_color" />
@@ -206,7 +209,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:layout_margin="5dp"
-                        android:drawableStart="@drawable/icon_instagram"
+                        android:drawableStart="@drawable/ic_instagram"
                         android:gravity="center"
                         android:text="@string/instagram_page"
                         android:textColor="@color/dark_color" />

@@ -188,20 +188,20 @@
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
-        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
-    },
-    {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
     },
     {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",

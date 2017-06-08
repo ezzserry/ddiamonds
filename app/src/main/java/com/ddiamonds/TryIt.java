@@ -78,8 +78,8 @@ public class TryIt extends AppCompatActivity implements OnTouchListener {
     MediaScannerConnection msConn;
 
     ImageView img_home, img_pre;
-//    ProgressBar itemProgressBar;
 
+    //    ProgressBar itemProgressBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
@@ -166,8 +166,13 @@ public class TryIt extends AppCompatActivity implements OnTouchListener {
     public boolean onContextItemSelected(MenuItem item) {
 
         if (item.getItemId() == R.id.menu_camera) {
-            Intent camera_intent = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
-            startActivityForResult(camera_intent, CAMERA_PIC_REQUEST);
+//            Intent camera_intent = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
+//            startActivityForResult(camera_intent, CAMERA_PIC_REQUEST);
+
+            Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+            if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
+                startActivityForResult(takePictureIntent, CAMERA_PIC_REQUEST);
+            }
         } else if (item.getItemId() == R.id.menu_gallery) {
             Intent i = new Intent(Intent.ACTION_PICK, android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
 
@@ -183,14 +188,18 @@ public class TryIt extends AppCompatActivity implements OnTouchListener {
 //        ImageView imageView = (ImageView) findViewById(R.id.img_photo);
 
         if (requestCode == CAMERA_PIC_REQUEST && resultCode == RESULT_OK && null != data) {
-            //Toast.makeText(Malfunction.this, "tacke photo", Toast.LENGTH_LONG).show();
+            //Toast.makeText(Malfunction.this, "take photo", Toast.LENGTH_LONG).show();
 
-            Bitmap thumbnail = (Bitmap) data.getExtras().get("data");
-            img_pic.setImageBitmap(thumbnail);
-
-            ByteArrayOutputStream stream = new ByteArrayOutputStream();
-            thumbnail.compress(Bitmap.CompressFormat.JPEG, 100, stream);
+//            Bitmap thumbnail = (Bitmap) data.getExtras().get("data");
+//            img_pic.setImageBitmap(thumbnail);
+//
+//            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+//            thumbnail.compress(Bitmap.CompressFormat.JPEG, 100, stream);
 //             byteArray = stream.toByteArray();
+
+            Bundle extras = data.getExtras();
+            Bitmap imageBitmap = (Bitmap) extras.get("data");
+            img_pic.setImageBitmap(imageBitmap);
 
         } else if (requestCode == RESULT_LOAD_IMAGE && resultCode == RESULT_OK && null != data) {
             Uri selectedImage = data.getData();

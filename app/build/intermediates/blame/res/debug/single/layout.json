@@ -132,16 +132,16 @@
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_details.xml",
-        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\layout\\product_details.xml"
+        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
         "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_intro_overlay.xml"
     },
     {
-        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_details.xml",
+        "source": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\src\\main\\res\\layout\\product_details.xml"
     },
     {
         "merged": "G:\\Ahmed ezz\\Android\\AWStreams\\android\\ddiamonds\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
